@@ -1,1 +1,3 @@
-created in project2
+[master b45f50b] added project2.txt
+ 1 file changed, 1 insertion(+)
+ create mode 100644 project2.txt
